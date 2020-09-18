@@ -1,3 +1,16 @@
+### SIMToolbox: a MATLAB toolbox for structured illumination microscopy
+
+SIMToolbox is an open-source, modular set of functions for MATLAB designed for processing data acquired by structured illumination microscopy. Both optical sectioning and super-resolution applications are supported. The software is also capable of maximum a posteriori probability image estimation (MAP-SIM), an alternative method for reconstruction of structured illumination images. MAP-SIM can potentially reduce reconstruction artifacts, which commonly occur due to refractive index mismatch within the sample and to imperfections in the illumination.
+
+Authors: Pavel Křížek, Tomáš Lukeš, Martin Ovesný, Jakub Pospíšil, Vojtěch Terš, Karel Fliegel, and Guy M. Hagen
+
+---
+
+Published in:
+- GigaScience, April 2020, doi: [10.1093/gigascience/giaa035](https://doi.org/10.1093/gigascience/giaa035)
+- GigaScience, January 2019, doi: [10.1093/gigascience/giy126](https://doi.org/10.1093/gigascience/giy126)
+- Bioinformatics, October 2015, doi: [10.1093/bioinformatics/btv576](https://doi.org/10.1093/bioinformatics/btv576)
+
 # The Minimal theme
 ## Usage
 
@@ -84,3 +97,6 @@ If you'd like to preview the theme locally (for example, in the process of propo
 ### Running tests
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` one before the test script will work.
+
+<!--
+**simtoolbox/SIMToolbox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
