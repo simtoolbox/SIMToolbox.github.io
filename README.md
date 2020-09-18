@@ -11,9 +11,6 @@ Published in:
 - GigaScience, January 2019, doi: [10.1093/gigascience/giy126](https://doi.org/10.1093/gigascience/giy126)
 - Bioinformatics, October 2015, doi: [10.1093/bioinformatics/btv576](https://doi.org/10.1093/bioinformatics/btv576)
 
-<!--
-**simtoolbox/SIMToolbox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # The Minimal theme
 ## Usage
 
@@ -100,3 +97,6 @@ If you'd like to preview the theme locally (for example, in the process of propo
 ### Running tests
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` one before the test script will work.
+
+<!--
+**simtoolbox/SIMToolbox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
