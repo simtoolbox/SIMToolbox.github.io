@@ -40,6 +40,7 @@ This project has received funding from:
   </div>
 </div>
 
+
 ## Contacts
 
 Jakub Pospíšil
