@@ -20,10 +20,10 @@ This project has received funding from:
 
 <div style="display: flex; text-align: center;">
   <div style="margin-right: 10px;">
-    <img src="media/mmtg.svg" alt="MMTG" height="30">
+    <img src="media/mmtg.svg" alt="MMTG" height="30"/>
   </div>
   <div style="flex-grow: 1; margin-right: 10px;">
-    <img src="media/electrical_engineering.svg" alt="FEE, CTU in Prague" height="30">
+    <img src="media/electrical_engineering.svg" alt="FEE, CTU in Prague" height="30"/>
   </div>
   <div style="flex-grow: 2;">
     <img src="media/UCCS_Signature.svg" alt="UCCS" height="30">
