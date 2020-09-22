@@ -28,18 +28,12 @@ This project has received funding from:
   - SGS16/167/OHK3/2T/13 - Algorithms for video-sequenced live cell super-resolution microscopy
   - SGS18/141/OHK3/2T/13 - Analysis and advanced algorithms for ultra-wide imaging systems
 
-<div style="display: flex; text-align: center;">
-  <div style="margin-right: 10px;">
-    <img src="media/mmtg.svg" alt="MMTG" height="30px">
-  </div>
-  <div style="margin-right: 10px;">
-    <img src="media/electrical_engineering.svg" alt="FEE, CTU in Prague" height="30px">
-  </div>
-  <div>
-    <img src="media/UCCS_Signature.svg" alt="UCCS" height="30px">
-  </div>
+<p align="center">
+  <img src="media/mmtg.svg" alt="MMTG" height="30px" style="float:left">
+  <img src="media/electrical_engineering.svg" alt="FEE, CTU in Prague" height="30px" style="float:center">
+  <img src="media/UCCS_Signature.svg" alt="UCCS" height="30px" style="float:right">
   <br>
-</div>
+</p>
 
 ## Contacts
 
