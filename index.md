@@ -20,5 +20,5 @@ This project has received funding from:
 
 
 <div style="width: 300px;">
-  <img src="media/mmtg_large.svg" alt="MMTG" />
+  <img src="media/mmtg.svg" alt="MMTG" />
 </div>
