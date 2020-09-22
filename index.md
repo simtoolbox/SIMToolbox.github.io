@@ -18,6 +18,6 @@ This project has received funding from:
   - SGS16/167/OHK3/2T/13 - Algorithms for video-sequenced live cell super-resolution microscopy
   - SGS18/141/OHK3/2T/13 - Analysis and advanced algorithms for ultra-wide imaging systems
 
-<div style="heigth: 50px;">
+<div style="width: 300px;">
   <img src="media/mmtg_large.png" alt="MMTG" />
 </div>
