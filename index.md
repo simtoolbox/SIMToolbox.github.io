@@ -9,7 +9,7 @@ The site is currently under reconstruction...
 ## Testing Dataset
 
 * [Actin (green LED) LCOS](https://zenodo.org/record/4044159/files/Actin%20%28green%20LED%29%20LCOS.zip?download=1)
-* [calibration (green LED)](https://zenodo.org/record/4044159/files/calibration%20%28green%20LED%29.zip?download=1)
+  - [calibration (green LED)](https://zenodo.org/record/4044159/files/calibration%20%28green%20LED%29.zip?download=1)
 * [Actin_Nikon.tif](https://zenodo.org/record/4044159/files/Actin_Nikon.tif?download=1)
 * [Actin_Nikon_z-angle-phase-t.tif](https://zenodo.org/record/4044159/files/Actin_Nikon_z-angle-phase-t.tif?download=1)
 * [Mito_Zeiss.tif](https://zenodo.org/record/4044159/files/Mito_Zeiss.tif?download=1)
@@ -38,8 +38,8 @@ This project has received funding from:
   <div style="flex-grow: 1;">
     <img src="media/UCCS_Signature.svg" alt="UCCS" height="30px">
   </div>
+  <br>
 </div>
-
 
 ## Contacts
 
