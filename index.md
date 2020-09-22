@@ -19,7 +19,13 @@ This project has received funding from:
   - SGS18/141/OHK3/2T/13 - Analysis and advanced algorithms for ultra-wide imaging systems
 
 <div style="text-align: center;">
-  <img src="media/mmtg.svg" alt="MMTG" height="30">
-  <img src="media/electrical_engineering.svg" alt="FEE, CTU in Prague" height="30">
-  <img src="media/UCCS_Signature.svg" alt="UCCS" height="30">
+  <div style="margin-right: 10px;">
+    <img src="media/mmtg.svg" alt="MMTG" height="30">
+  </div>
+  <div style="margin-right: 10px;">
+    <img src="media/electrical_engineering.svg" alt="FEE, CTU in Prague" height="30">
+  </div>
+  <div style="margin-right: 10px;">
+    <img src="media/UCCS_Signature.svg" alt="UCCS" height="30">
+  </div>
 </div>
