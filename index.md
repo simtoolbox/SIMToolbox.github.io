@@ -19,6 +19,4 @@ This project has received funding from:
   - SGS18/141/OHK3/2T/13 - Analysis and advanced algorithms for ultra-wide imaging systems
 
 
-<div style="width: 300px;">
-  <img src="media/mmtg.svg" alt="MMTG" />
-</div>
+<img src="media/mmtg.svg" alt="MMTG" height="80">
