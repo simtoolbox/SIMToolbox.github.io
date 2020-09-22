@@ -26,6 +26,6 @@ This project has received funding from:
     <img src="media/electrical_engineering.svg" alt="FEE, CTU in Prague"/>
   </div>
   <div style="flex-grow: 2;">
-    <img src="media/UCCS_Signature.svg" alt="UCCS">
+    <img src="media/UCCS_Signature.svg" alt="UCCS"/>
   </div>
 </div>
