@@ -33,10 +33,17 @@ This project has received funding from:
 ## Contacts
 
 Jakub Pospíšil
-* [pospij27@fel.cvut.cz](pospij27@fel.cvut.cz)
+* e-mail: [pospij27@fel.cvut.cz](pospij27@fel.cvut.cz)
+* Google Scholar: [Jakub Pospíšil](https://scholar.google.com/citations?user=zz6YRgcAAAAJ&hl=en&oi=sra)
 
 Tomáš Lukeš
-* [tomas.lukes@epfl.ch](tomas.lukes@epfl.ch)
+* e-mail: [tomas.lukes@epfl.ch](tomas.lukes@epfl.ch)
 
 Guy M. Hagen
-* [ghagen@uccs.edu](ghagen@uccs.edu)
+* web: [HagenLab](https://sites.google.com/view/hagen-lab), [BioFrontiers](https://biofrontiers.uccs.edu/)
+* e-mail: [ghagen@uccs.edu](ghagen@uccs.edu)
+* ORCID: [0000-0002-4802-9481](https://orcid.org/0000-0002-4802-9481)
+* Google Scholar: [Guy M. Hagen](https://scholar.google.com/citations?user=dOeqmE0AAAAJ&hl=en)
+* ResearchGate: [Guy M. Hagen](https://www.researchgate.net/profile/Guy_Hagen)
+* WoS: [Guy M. Hagen](https://app.webofknowledge.com/author/record/170726?lang=en_US&SID=F2ZIIVRn7by1Egvjp9K)
+
