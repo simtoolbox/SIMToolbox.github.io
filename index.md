@@ -12,7 +12,7 @@ This project has received funding from:
 
 * UCCS center for the BioFrontiers Institute
 * Czech Science Foundation
-  - GA17-05840S - Multimedia optimization of shift-variant imaging system models)
+  - GA17-05840S - Multimedia optimization of shift-variant imaging system models
 * Czech Technical University in Prague
   - SGS14/148/OHK3/2T/13 - Super-resolution microscopy imaging of mitochondrial networks
   - SGS16/167/OHK3/2T/13 - Algorithms for video-sequenced live cell super-resolution microscopy
@@ -29,3 +29,14 @@ This project has received funding from:
     <img src="media/UCCS_Signature.svg" alt="UCCS" height="30px">
   </div>
 </div>
+
+## Contacts
+
+Jakub Pospíšil
+* [pospij27@fel.cvut.cz](pospij27@fel.cvut.cz)
+
+Tomáš Lukeš
+* [tomas.lukes@epfl.ch](tomas.lukes@epfl.ch)
+
+Guy M. Hagen
+* [ghagen@uccs.edu](ghagen@uccs.edu)
