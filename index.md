@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to SIMToolbox Pages
+## The SIMToolbox project
 
 The site is currently under reconstruction...
 
