@@ -51,7 +51,7 @@ Guy M. Hagen
 * ResearchGate: [Guy M. Hagen](https://www.researchgate.net/profile/Guy_Hagen)
 * WoS: [Guy M. Hagen](https://app.webofknowledge.com/author/record/170726?lang=en_US&SID=F2ZIIVRn7by1Egvjp9K)
 
-Jakub Posp\'{i}\v{s}il
+Jakub Pospíšil
 * e-mail: [pospij27@fel.cvut.cz](mailto:pospij27@fel.cvut.cz)
 * Google Scholar: [Jakub Pospíšil](https://scholar.google.com/citations?user=zz6YRgcAAAAJ&hl=en&oi=sra)
 
