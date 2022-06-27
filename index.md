@@ -12,6 +12,12 @@ If you use SIMToolbox for your research or education, please cite our *associate
 
 > P. Křížek, T. Lukeš, M. Ovesný, K. Fliegel, G. M. Hagen,  _SIMToolbox: A MATLAB toolbox for structured illumination fluorescence microscopy_. Bioinformatics, 32(2), 318–320, (2016). [doi:10.1093/bioinformatics/btv576](https://doi.org/10.1093/bioinformatics/btv576)
 
+## Standalone application
+
+* The installer of the latest version can be found [here](https://drive.google.com/file/d/1Hmhm3Val_ckNKWkxnz2O9WDBYy9Wmvtl/view?usp=sharing)
+* The source MATLAB codes of all versions are located in SIMToolbox [github repository](https://github.com/simtoolbox/SIMToolbox)
+* Documentation and quick start guides for the [first](https://drive.google.com/drive/folders/1Tk6vLwmEWrc8YiYASAswL-5YCfzHAELl?usp=sharing) and the [second](https://drive.google.com/drive/folders/1gfnQiepMmLAMiP8L2tdlxJ3EzWsdkSsB?usp=sharing) generation are available on the project's [Google Drive](https://drive.google.com/drive/folders/12Ra7U7hotTqoPlDvDLk0IdOBRMBS55_6?usp=sharing)
+
 ## Testing Dataset
 
 * [Actin (green LED) LCOS](https://zenodo.org/record/4044159/files/Actin%20%28green%20LED%29%20LCOS.zip?download=1)
