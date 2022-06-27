@@ -14,7 +14,7 @@ If you use SIMToolbox for your research or education, please cite our *associate
 
 ## Standalone application
 
-* The installer of the latest version can be found [here](https://drive.google.com/file/d/1Hmhm3Val_ckNKWkxnz2O9WDBYy9Wmvtl/view?usp=sharing)
+* The installer of the latest version can be found [here](https://drive.google.com/file/d/1Hmhm3Val_ckNKWkxnz2O9WDBYy9Wmvtl/view?usp=sharing) ([all releases](https://drive.google.com/drive/folders/1Kjs0F8ce0zOW5vhxr6i4A387n1godCyt?usp=sharing) of SIMToolbox)
 * The source MATLAB codes of all versions are located in SIMToolbox [github repository](https://github.com/simtoolbox/SIMToolbox)
 * Documentation and quick start guides for the [first](https://drive.google.com/drive/folders/1Tk6vLwmEWrc8YiYASAswL-5YCfzHAELl?usp=sharing) and the [second](https://drive.google.com/drive/folders/1gfnQiepMmLAMiP8L2tdlxJ3EzWsdkSsB?usp=sharing) generation are available on the project's [Google Drive](https://drive.google.com/drive/folders/12Ra7U7hotTqoPlDvDLk0IdOBRMBS55_6?usp=sharing)
 
