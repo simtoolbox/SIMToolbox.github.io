@@ -12,7 +12,7 @@ If you use SIMToolbox for your research or education, please cite our *associate
 
 > P. Křížek, T. Lukeš, M. Ovesný, K. Fliegel, G. M. Hagen,  _SIMToolbox: A MATLAB toolbox for structured illumination fluorescence microscopy_. Bioinformatics, 32(2), 318–320, (2016). [doi:10.1093/bioinformatics/btv576](https://doi.org/10.1093/bioinformatics/btv576)
 
-## Standalone application
+## Downloads
 
 * The installer of the latest version can be found [here](https://drive.google.com/file/d/1Hmhm3Val_ckNKWkxnz2O9WDBYy9Wmvtl/view?usp=sharing) ([all releases](https://drive.google.com/drive/folders/1Kjs0F8ce0zOW5vhxr6i4A387n1godCyt?usp=sharing) of SIMToolbox)
 * The source MATLAB codes of all versions are located in SIMToolbox [github repository](https://github.com/simtoolbox/SIMToolbox)
