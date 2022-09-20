@@ -58,7 +58,7 @@ Guy M. Hagen
 * WoS: [Guy M. Hagen](https://app.webofknowledge.com/author/record/170726?lang=en_US&SID=F2ZIIVRn7by1Egvjp9K)
 
 Jakub Pospíšil
-* e-mail: [pospij27@fel.cvut.cz](mailto:pospij27@fel.cvut.cz)
+* e-mail: [jakub.pospisil@uit.no](mailto:jakub.pospisil@uit.no)
 * Google Scholar: [Jakub Pospíšil](https://scholar.google.com/citations?user=zz6YRgcAAAAJ&hl=en&oi=sra)
 
 Tomáš Lukeš
