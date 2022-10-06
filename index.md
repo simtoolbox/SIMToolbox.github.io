@@ -12,11 +12,27 @@ If you use SIMToolbox for your research or education, please cite our *associate
 
 > P. Křížek, T. Lukeš, M. Ovesný, K. Fliegel, G. M. Hagen,  _SIMToolbox: A MATLAB toolbox for structured illumination fluorescence microscopy_. Bioinformatics, 32(2), 318–320, (2016). [doi:10.1093/bioinformatics/btv576](https://doi.org/10.1093/bioinformatics/btv576)
 
+> J. Pospíšil, T. Lukeš, J. Bendesky, K. Fliegel, K. Spendier, G.M. Hagen _Imaging tissues and cells beyond the diffraction limit with structured illumination microscopy and Bayesian image reconstruction_, GigaScience, 8(1), 1-12, (2019). [doi:10.1093/gigascience/giy126](https://doi.org/10.1093/gigascience/giy126)
+
 ## Downloads
 
 * The installer of the latest version can be found [here](https://drive.google.com/file/d/1Hmhm3Val_ckNKWkxnz2O9WDBYy9Wmvtl/view?usp=sharing) ([all releases](https://drive.google.com/drive/folders/1Kjs0F8ce0zOW5vhxr6i4A387n1godCyt?usp=sharing) of SIMToolbox)
 * The source MATLAB codes of all versions are located in SIMToolbox [github repository](https://github.com/simtoolbox/SIMToolbox)
 * Documentation and quick start guides for the [first](https://drive.google.com/drive/folders/1Tk6vLwmEWrc8YiYASAswL-5YCfzHAELl?usp=sharing) and the [second](https://drive.google.com/drive/folders/1gfnQiepMmLAMiP8L2tdlxJ3EzWsdkSsB?usp=sharing) generation are available on the project's [Google Drive](https://drive.google.com/drive/folders/12Ra7U7hotTqoPlDvDLk0IdOBRMBS55_6?usp=sharing)
+
+## Compatibility notes
+The GUI is a stand-alone program and does not require MATLAB to be installed. To use the MATLAB functions within SIMToolbox (i.e., without the GUI), MATLAB must be installed. When using SIMToolbox functions without the GUI, the MATLAB ''Image Processing Toolbox'' is required. SIMToolbox also requires the ''MATLAB YAML'' package by Kota Yamaguchi [1] to convert MATLAB objects to/from YAML file format. Note that this package is installed automatically when using the GUI.
+
+# Version 2
+The functions were mainly developed with 64bit MATLAB version 2017a in Windows 10.
+The SIMToolbox GUI was compiled with MATLAB 2017a and tested in Windows 7, 8 and 10.
+Latest version of SIMToolbox was testet in 64bit MATLAB versions 2017a-2022a using a conventional computer (Intel® CoreTM i7-4770 CPU, 3.40 GHz; NVIDIA® Quadro® K2000 GPU, 2 GB; RAM 32 GB).
+
+# Version 1
+The functions were mainly developed with 64bit MATLAB versions 2012b-2015a in Windows 7.
+The SIMToolbox GUI was compiled with MATLAB 2015a and tested in Windows 7 and 8.
+
+[1] K. Yamaguchi. Matlab YAML. Graduate School of Information Sciences, Tohoku University, Japan. 2011.
 
 ## Testing Dataset
 
