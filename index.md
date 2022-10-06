@@ -23,16 +23,16 @@ If you use SIMToolbox for your research or education, please cite our *associate
 ## Compatibility notes
 The GUI is a stand-alone program and does not require MATLAB to be installed. To use the MATLAB functions within SIMToolbox (i.e., without the GUI), MATLAB must be installed. When using SIMToolbox functions without the GUI, the MATLAB ''Image Processing Toolbox'' is required. SIMToolbox also requires the ''MATLAB YAML'' package by Kota Yamaguchi [1] to convert MATLAB objects to/from YAML file format. Note that this package is installed automatically when using the GUI.
 
-# Version 2
+[1] K. Yamaguchi. Matlab YAML. Graduate School of Information Sciences, Tohoku University, Japan. 2011.
+
+### Version 2
 The functions were mainly developed with 64bit MATLAB version 2017a in Windows 10.
 The SIMToolbox GUI was compiled with MATLAB 2017a and tested in Windows 7, 8 and 10.
 Latest version of SIMToolbox was testet in 64bit MATLAB versions 2017a-2022a using a conventional computer (Intel® CoreTM i7-4770 CPU, 3.40 GHz; NVIDIA® Quadro® K2000 GPU, 2 GB; RAM 32 GB).
 
-# Version 1
+### Version 1
 The functions were mainly developed with 64bit MATLAB versions 2012b-2015a in Windows 7.
 The SIMToolbox GUI was compiled with MATLAB 2015a and tested in Windows 7 and 8.
-
-[1] K. Yamaguchi. Matlab YAML. Graduate School of Information Sciences, Tohoku University, Japan. 2011.
 
 ## Testing Dataset
 
