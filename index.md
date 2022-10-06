@@ -31,7 +31,7 @@ The GUI is a stand-alone program and does not require MATLAB to be installed. To
 * Latest version of SIMToolbox was testet in 64bit MATLAB versions 2017a-2022a using a conventional computer (Intel® CoreTM i7-4770 CPU, 3.40 GHz; NVIDIA® Quadro® K2000 GPU, 2 GB; RAM 32 GB).
 
 ### Version 1
-* The functions were mainly developed with 64bit MATLAB versions 2012b-2015a in Windows 7.\
+* The functions were mainly developed with 64bit MATLAB versions 2012b-2015a in Windows 7.
 * The SIMToolbox GUI was compiled with MATLAB 2015a and tested in Windows 7 and 8.
 
 ## Testing Dataset
