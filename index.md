@@ -26,13 +26,13 @@ The GUI is a stand-alone program and does not require MATLAB to be installed. To
 [1] K. Yamaguchi. Matlab YAML. Graduate School of Information Sciences, Tohoku University, Japan. 2011.
 
 ### Version 2
-The functions were mainly developed with 64bit MATLAB version 2017a in Windows 10.\
-The SIMToolbox GUI was compiled with MATLAB 2017a and tested in Windows 7, 8 and 10.\
-Latest version of SIMToolbox was testet in 64bit MATLAB versions 2017a-2022a using a conventional computer (Intel® CoreTM i7-4770 CPU, 3.40 GHz; NVIDIA® Quadro® K2000 GPU, 2 GB; RAM 32 GB).
+* The functions were mainly developed with 64bit MATLAB version 2017a in Windows 10.
+* The SIMToolbox GUI was compiled with MATLAB 2017a and tested in Windows 7, 8 and 10.
+* Latest version of SIMToolbox was testet in 64bit MATLAB versions 2017a-2022a using a conventional computer (Intel® CoreTM i7-4770 CPU, 3.40 GHz; NVIDIA® Quadro® K2000 GPU, 2 GB; RAM 32 GB).
 
 ### Version 1
-The functions were mainly developed with 64bit MATLAB versions 2012b-2015a in Windows 7.\
-The SIMToolbox GUI was compiled with MATLAB 2015a and tested in Windows 7 and 8.
+* The functions were mainly developed with 64bit MATLAB versions 2012b-2015a in Windows 7.\
+* The SIMToolbox GUI was compiled with MATLAB 2015a and tested in Windows 7 and 8.
 
 ## Testing Dataset
 
