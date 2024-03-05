@@ -14,6 +14,8 @@ If you use SIMToolbox for your research or education, please cite our *associate
 
 > J. Pospíšil, T. Lukeš, J. Bendesky, K. Fliegel, K. Spendier, G.M. Hagen _Imaging tissues and cells beyond the diffraction limit with structured illumination microscopy and Bayesian image reconstruction_, GigaScience, 8(1), 1-12, (2019). [doi:10.1093/gigascience/giy126](https://doi.org/10.1093/gigascience/giy126)
 
+> M. T. M. Hannebelle, E. Raeth, S. M. Leitao, T. Lukeš, J. Pospíšil, C. Toniolo, O. F. Venzin, A. Chrisnandy, P. P. Swain, N. Ronceray, M. P. Lütolf, A. C. Oates, G.M. Hagen, T. Lasser, A. Radenovic, J. D. McKinney, G. E. Fantner, _Open-source microscope add-on for structured illumination microscopy_, Nature Communications, 15(1550), 1-8, (2024). [doi:10.1038/s41467-024-45567-7](https://doi.org/10.1038/s41467-024-45567-7)
+
 ## Downloads
 
 * The installer of the latest version can be found [here](https://drive.google.com/file/d/1Hmhm3Val_ckNKWkxnz2O9WDBYy9Wmvtl/view?usp=sharing) ([all releases](https://drive.google.com/drive/folders/1Kjs0F8ce0zOW5vhxr6i4A387n1godCyt?usp=sharing) of SIMToolbox)
